@@ -1,5 +1,5 @@
-<h1>ImageSearc</h1>
-</br>
+<h1>ImageSearch</h1>
+
 <h3>
  Simple React based application.
 </br>
